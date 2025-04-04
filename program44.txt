@@ -1,0 +1,11 @@
+#Name: Nava Karine Nizard
+#Email: nava.nizard12@myhunter.cuny.edu
+#Date: December 4, 2024
+#This program creates new directories and navigates through them in Bash script.
+
+mkdir projectFiles
+cd projectFiles
+
+mkdir source
+mkdir data 
+mkdir results
