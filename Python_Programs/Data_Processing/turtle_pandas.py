@@ -6,7 +6,6 @@
 #   This program uses his turtle setup but processing
 #       of data is with Pandas.
 
-
 import turtle
 import pandas as pd
 
