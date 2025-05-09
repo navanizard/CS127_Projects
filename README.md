@@ -16,11 +16,16 @@ Throughout the semester, I worked on projects that strengthened my ability to:
 ## Repository Structure
 ```
 📂 CS127_Projects
-│── 📂 Python_Programs     # Python scripts and assignments
-│── 📂 C++_Programs        # Introductory C++ programs
-│── 📂 Machine_Language    # Simple machine language programs
-│── 📂 Boolean_Logic       # Boolean circuit design exercises
-│── 📄 README.md           # This file
+│── 📂 Python_Programs            # Python scripts and assignments
+    │── 📂 Python_Fundamentals       # Basic Python concepts like loops, functions, and control flow
+    │── 📂 Strings                   # String manipulation, formatting, and related exercises
+    │── 📂 Turtles                   # Graphics projects using the turtle module for drawing and commands
+    │── 📂 Data_Processing           # Working with data using NumPy, Pandas, and Matplotlib
+    │── 📂 Unit_Converters           # Utility scripts to convert between units (e.g., time, number bases)
+│── 📂 C++_Programs               # Introductory C++ programs
+│── 📂 Machine_Language           # Simple machine language programs
+│── 📂 Boolean_Logic              # Boolean circuit design exercises
+│── 📄 README.md                  # This file
 ```
 
 ## Technologies Used
