@@ -30,8 +30,6 @@ Throughout the semester, I worked on projects that strengthened my ability to:
 - **Python** (for primary programming assignments)
 - **C++** (for basic programming concepts in a Linux environment)
 - **Linux CLI** (for file system navigation and command-line tools)
-- **Binary & Hexadecimal Systems** (for number representation and logic operations)
-- **Machine Language** (for understanding low-level computer operations)
 
 ## Notes
 This repository reflects my learning experience in CS127. Going through these assignments helped me build a strong foundation in programming, and I found that hands-on practice was essential in understanding the concepts.
