@@ -10,8 +10,6 @@ Throughout the semester, I worked on projects that strengthened my ability to:
 - Navigate the Linux file system and understand its structure.
 - Work with binary and hexadecimal number systems.
 - Explore Boolean logic and simple circuit design.
-- Gain a foundational understanding of computer architecture and machine language.
-- Get an introduction to advanced topics like artificial intelligence, data science, and networking.
 
 ## Repository Structure
 ```
